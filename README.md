@@ -9,8 +9,7 @@ Arrays & Strings ( sept 9th to sept 15th )
 7. Check if an Array is Sorted
 
 
-
-1.Introduction to String
+1. Introduction to String
 2. Strings in C++
 3. Palindrome Check
 4. Check if a String is Subsequence of Other
