@@ -1,4 +1,6 @@
-Arrays & Strings ( sept 9th to sept 15th )
+Solving Leetcode problems - C++ & Python
+
+Arrays & Strings 
 
 1. Introduction to Arrays
 2. Array Types
