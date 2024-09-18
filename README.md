@@ -1,4 +1,4 @@
-Solving Leetcode problems - C++ & Python
+Solving Leetcode problems using C++ & Python
 
 Arrays & Strings 
 
